@@ -1,0 +1,6 @@
+{
+ :paths ["src"]
+ :deps {clj-time/clj-time {:mvn/version "0.14.2"}
+        io.joshmiller/exif-processor {:mvn/version "0.2.0"}}
+ }
+
